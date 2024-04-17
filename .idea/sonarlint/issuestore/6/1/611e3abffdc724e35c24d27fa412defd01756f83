@@ -1,0 +1,38 @@
+
+‹
+java:S1192-"ODefine a constant instead of duplicating this literal "Californian FB" 3 times.(åâ‹òJ$e5d73d24-afef-4d47-9ad8-8e5b476debee
+c
+java:S16043"(Make this anonymous inner class a lambda(Ì‰¯TJ$e3dd8b7b-5405-4475-8e01-1392deae13b9
+i
+java:S1604;"(Make this anonymous inner class a lambda(­ùØÔùÿÿÿÿJ$796425df-5c7d-4f4f-88bb-d881e0498e4c
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»ÅÿşøÿÿÿÿJ$d62b233e-eafe-4b32-9c3f-21b11e2eeaea
+•	java:S116"URename this field "Lprincipal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Û»ÏøÿÿÿÿJ$3ff75ecb-3f4a-413b-b0d4-7b20eaa3fb91
+—	java:S116–"VRename this field "BCargarGene" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èİÙøÿÿÿÿJ$8196c42a-8296-4d3f-98f8-51f61ba68a46
+“	java:S116—"RRename this field "Bluchar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áğò¾ıÿÿÿÿJ$671cecd5-6440-46be-9cb7-3ef01669b9b9
+œ
+java:S1450–"ZRemove the "BCargarGene" field and declare it as a local variable in the relevant methods.(èİÙøÿÿÿÿJ$bafc72be-9805-4a25-a645-2430d5ab6613
+˜
+java:S1450—"VRemove the "Bluchar" field and declare it as a local variable in the relevant methods.(Áğò¾ıÿÿÿÿJ$7ee7caca-af92-4a5c-b1cf-6007609cbffb
+™
+java:S1450˜"WRemove the "jLBienve" field and declare it as a local variable in the relevant methods.(Óø‚ãúÿÿÿÿJ$4eb647b3-fb81-4270-8186-6b30be4b4d86
+˜
+java:S1450™"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿJ$6c9edf0e-47d6-4a34-a266-718b5149b84f
+‰	java:S100l"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø«Ç‰J$2c7a3e2b-61c8-4ec9-b89f-83ed801734cc
+{
+java:S1854o"?Remove this useless assignment to local variable "fileChooser".(°»ãóJ$181bab02-1c3c-47a8-81ea-8952a3984586
+f
+java:S1172l"*Remove this unused method parameter "evt".(ø«Ç‰J$646def01-ed7f-44be-a5cb-dd1a5f43576e
+w	java:S125m"<This block of commented-out lines of code should be removed.(²Ä¨J$080c1a7d-e2d2-4790-af98-2384aa0090af
+l
+java:S1481o"0Remove this unused "fileChooser" local variable.(°»ãóJ$e8769a57-b312-4538-bfa4-6bce8f6ba73f
+	java:S100v"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á–ûÑûÿÿÿÿJ$4f213c82-f7d7-4ed3-b1d4-35e807bfebc4
+k
+java:S1172v"*Remove this unused method parameter "evt".(á–ûÑûÿÿÿÿJ$76d4d4a2-8613-48fb-956e-4469038e8271
+’
+java:S1450Ÿ"URemove the "imagen" field and declare it as a local variable in the relevant methods.(ÀÍô°J$21a9f810-5590-4a4a-bcc5-1462ca066155
+e
+java:S1948Ÿ"(Make "imagen" transient or serializable.(ÀÍô°J$4293a4a4-8b01-4ecf-929c-82dc8b1b6a60
+s
+java:S1128"7Remove this unused import 'java.awt.event.ActionEvent'.(Úù“‘J$2d07a99a-14d8-4deb-bd5a-752cdf0ef2f1
+v
+java:S1128":Remove this unused import 'java.awt.event.ActionListener'.(Ìä¹J$b57f78cc-3930-4f82-a0d1-2536bca64a69

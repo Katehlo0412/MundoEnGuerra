@@ -1,0 +1,23 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»ÅÿşøÿÿÿÿJ$b1d307b9-aed7-44e0-9edc-9ede16d40c3a
+	java:S116"SRename this field "LBatalla" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è‚„J$8bc01733-4c6c-49ec-87c6-2596cd00a311
+	java:S116€"TRename this field "LGanandor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¥úÍJ$c6d60dd3-af87-4aeb-a1db-62e548479da5
+•	java:S116"TRename this field "TFGanador" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä…Ê­ÿÿÿÿÿJ$58295123-04bb-4552-97e2-1e7d7e00c135
+“
+java:S1450"WRemove the "LBatalla" field and declare it as a local variable in the relevant methods.(è‚„J$6a74d543-31fc-405a-9f76-ddaa8ee7af92
+•
+java:S1450€"XRemove the "LGanandor" field and declare it as a local variable in the relevant methods.(€¥úÍJ$f28b2b61-9e69-4640-8ef2-c3075f58a394
+š
+java:S1450"XRemove the "TFGanador" field and declare it as a local variable in the relevant methods.(ä…Ê­ÿÿÿÿÿJ$7a8696b4-5b6c-41ad-8cc2-a75f9ef2f9d9
+”
+java:S1450‚"WRemove the "jButton1" field and declare it as a local variable in the relevant methods.(å……¶J$9bbc6847-7543-468f-89bf-aa5924f9a249
+”
+java:S1450ƒ"WRemove the "jButton2" field and declare it as a local variable in the relevant methods.(¤½ÃÜJ$1fd6d7e4-ed73-4959-97ab-ae8f60beff35
+™
+java:S1450„"WRemove the "jButton3" field and declare it as a local variable in the relevant methods.(ĞäğËıÿÿÿÿJ$c8b8db25-df43-488c-9a4b-23c5c99a2d15
+˜
+java:S1450…"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿJ$a563944a-1e4d-414d-b55f-2900ef2dc718
+
+java:S1450†"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿJ$955058a1-9605-4236-8313-7e2147c6d47e
+“
+java:S1450‡"VRemove the "jTable1" field and declare it as a local variable in the relevant methods.(Ğÿ¿×J$97444783-f332-44e7-9efd-732b4c5a1b50

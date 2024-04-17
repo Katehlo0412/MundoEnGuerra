@@ -1,0 +1,121 @@
+
+d
+java:S1192›"FDefine a constant instead of duplicating this literal "Error" 6 times.(°ŒÂ©8„¸àİî1
+E
+java:S1604C"(Make this anonymous inner class a lambda(æ‰†À8›¸àİî1
+J
+java:S1604d"(Make this anonymous inner class a lambda(™‹ƒ­ûÿÿÿÿ8¸àİî1
+J
+java:S1604l"(Make this anonymous inner class a lambda(šĞÒ¼øÿÿÿÿ8¸àİî1
+E
+java:S1604t"(Make this anonymous inner class a lambda(¦‰å§8Ÿ¸àİî1
+J
+java:S1604|"(Make this anonymous inner class a lambda(İ±òÿıÿÿÿÿ8Ÿ¸àİî1
+F
+java:S1604„"(Make this anonymous inner class a lambda(åï´³8Ÿ¸àİî1
+K
+java:S1604Œ"(Make this anonymous inner class a lambda(ğÓ›úûÿÿÿÿ8 ¸àİî1
+K
+java:S1604”"(Make this anonymous inner class a lambda(ÑÀÛùÿÿÿÿ8 ¸àİî1
+F
+java:S1604›"(Make this anonymous inner class a lambda(‰›¢¥8¡¸àİî1
+F
+java:S1604®"(Make this anonymous inner class a lambda(’ñ•ú8¡¸àİî1
+F
+java:S1604"(Make this anonymous inner class a lambda(Ç½š8¡¸àİî1
+F
+java:S1604Á"(Make this anonymous inner class a lambda(Ç½š8¢¸àİî1
+F
+java:S1604ó"(Make this anonymous inner class a lambda(Ç½š8¢¸àİî1
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»ÅÿşøÿÿÿÿJ$84837c30-c257-4d46-b7c2-f0cd03490647
+–	java:S116•"URename this field "BConfirmar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¸şÿÿÿÿÿJ$97e94333-5515-4de4-ade4-5da265047569
+	java:S116–"TRename this field "Confirmar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§µğºJ$0d49aba3-8dcc-45ae-9b10-ba05a92e65b5
+•	java:S116—"TRename this field "LEjercito" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦àĞ¶ùÿÿÿÿJ$462bbc3d-e3a4-439c-ae20-a0c5662048cd
+’	java:S116˜"QRename this field "LSaldo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Ëù¾øÿÿÿÿJ$6d0f595f-ed98-4308-95ce-556067684819
+‘	java:S116™"VRename this field "RBAnadInfan" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”·™J$847fc39b-16e3-47b2-8ccf-cf8aad81827f
+—	java:S116š"VRename this field "RBAnadirCab" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¢¯úÿÿÿÿJ$de50e364-ef47-4020-a298-983b88fe5338
+“	java:S116›"WRename this field "RBAnadirElef" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( …Ù½J$3046390e-a0d5-4a99-88ec-330068abd76e
+“	java:S116œ"WRename this field "RBAnadirGene" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üêÙJ$efd8e244-915f-4109-bb91-79c1d90d6278
+—	java:S116"VRename this field "RBAnadirTig" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÌı°ıÿÿÿÿJ$327937ec-d471-4034-8070-774b06011948
+”	java:S116"XRename this field "RBEliminarCmp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü”ÚÄJ$cb45d07e-0663-4bfb-868c-13571bae80c4
+š	java:S116Ÿ"YRename this field "RBNombrarEjerc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ—í„ùÿÿÿÿJ$0410aedb-a510-40a4-942d-cb8f96ea71c0
+“	java:S116 "WRename this field "TNombreEjerc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±×ÚJ$dcf07722-04fc-42d2-88d3-82f1a4e8a39e
+›
+java:S1450•"YRemove the "BConfirmar" field and declare it as a local variable in the relevant methods.(†¸şÿÿÿÿÿJ$1cffa9c1-52b6-499f-a418-7811be0a37f3
+š
+java:S1450—"XRemove the "LEjercito" field and declare it as a local variable in the relevant methods.(¦àĞ¶ùÿÿÿÿJ$089d55b0-cb8c-431b-b44f-0f32a20184d9
+—
+java:S1450˜"URemove the "LSaldo" field and declare it as a local variable in the relevant methods.(÷Ëù¾øÿÿÿÿJ$fdd5d5bf-fe9c-4fac-94d7-27071537c273
+–
+java:S1450™"ZRemove the "RBAnadInfan" field and declare it as a local variable in the relevant methods.(”·™J$b90177f5-048a-4719-9d15-90734ed42509
+˜
+java:S1450›"[Remove the "RBAnadirElef" field and declare it as a local variable in the relevant methods.( …Ù½J$7b031be9-161b-4b47-bb80-bd5e71068946
+œ
+java:S1450"ZRemove the "RBAnadirTig" field and declare it as a local variable in the relevant methods.(šÌı°ıÿÿÿÿJ$77e400ec-e10c-4ce7-ad7b-dd13a9a080f8
+™
+java:S1450"\Remove the "RBEliminarCmp" field and declare it as a local variable in the relevant methods.(ü”ÚÄJ$cec61548-9908-4002-aafa-3c6e9fcd505d
+Ÿ
+java:S1450Ÿ"]Remove the "RBNombrarEjerc" field and declare it as a local variable in the relevant methods.(Æ—í„ùÿÿÿÿJ$6b6deda1-ba9b-443f-ab44-684712ed8715
+
+java:S1450¡"[Remove the "buttonGroup1" field and declare it as a local variable in the relevant methods.(ïÔúØÿÿÿÿÿJ$b973c9db-48bb-4dc2-99e9-7dce8b7c6aca
+˜
+java:S1450¢"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿJ$2ca47863-dc49-4c85-9157-15fb3a08c25b
+˜
+java:S1450£"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿJ$5b517305-87da-4cfc-8c2d-0183657a6dee
+™
+java:S1450¤"\Remove the "jProgressBar1" field and declare it as a local variable in the relevant methods.( “ÖJ$e39c2c7a-9408-401b-9b72-a4724a5c0cdc
+
+java:S1450¥"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿJ$9ebdc031-515e-442d-a7b2-8d76738e5eb7
+
+java:S1450¦"[Remove the "jScrollPane2" field and declare it as a local variable in the relevant methods.(ŠÌ«·şÿÿÿÿJ$625e122f-7119-4046-a0ef-ccdefdd1cdad
+“
+java:S1450§"VRemove the "jTable1" field and declare it as a local variable in the relevant methods.(Ğÿ¿×J$cf3f5d7b-23ec-4044-ba2c-40413b174a4c
+˜
+java:S1450¨"VRemove the "jTable2" field and declare it as a local variable in the relevant methods.(¢Ú„öıÿÿÿÿJ$5774996a-334b-431c-afa5-283c05f17516
+\
+java:S1161<":Add the "@Override" annotation above this method signature(ø½Ìıüÿÿÿÿ8‘¹àİî1
+\
+java:S1161\":Add the "@Override" annotation above this method signature(ÍŸÏ†ùÿÿÿÿ8«¹àİî1
+H
+java:S1172‘"*Remove this unused method parameter "evt".(Ï‡«à8Å¹àİî1
+k	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø•Š•8Æ¹àİî1
+H
+java:S1172•"*Remove this unused method parameter "evt".(Ø•Š•8Ç¹àİî1
+p	java:S100§"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—´İúûÿÿÿÿ8Ê¹àİî1
+M
+java:S1172§"*Remove this unused method parameter "evt".(—´İúûÿÿÿÿ8Ê¹àİî1
+U
+java:S1135¨"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ8Ë¹àİî1
+k	java:S100«"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“æÚ8Ì¹àİî1
+H
+java:S1172«"*Remove this unused method parameter "evt".(“æÚ8Ì¹àİî1
+E	java:S108²")Either remove or fill this block of code.(ÊÜş;8¶¾àİî1
+k	java:S100É"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óşµÁ8¾¾àİî1
+H
+java:S1172É"*Remove this unused method parameter "evt".(óşµÁ8¿¾àİî1
+j	java:S100Õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¨£]8Á¾àİî1
+G
+java:S1172Õ"*Remove this unused method parameter "evt".(“¨£]8Á¾àİî1
+k	java:S100à"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÆ8Â¾àİî1
+H
+java:S1172à"*Remove this unused method parameter "evt".(ÒÆ8Ã¾àİî1
+p	java:S100ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş‚¹šüÿÿÿÿ8Ã¾àİî1
+M
+java:S1172ä"*Remove this unused method parameter "evt".(ş‚¹šüÿÿÿÿ8Ä¾àİî1
+p	java:S100ê"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾á£÷ÿÿÿÿÿ8Æ¾àİî1
+M
+java:S1172ê"*Remove this unused method parameter "evt".(¾á£÷ÿÿÿÿÿ8Ç¾àİî1
+U
+java:S1135ë"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ8Ç¾àİî1
+k	java:S100î"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıœÕË8Ç¾àİî1
+H
+java:S1172î"*Remove this unused method parameter "evt".(ıœÕË8É¾àİî1
+U
+java:S1135ï"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ8Ê¾àİî1
+k	java:S100ò"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¨±¾8Ê¾àİî1
+H
+java:S1172ò"*Remove this unused method parameter "evt".(¡¨±¾8Ë¾àİî1
+t
+java:S1450‚"VRemove the "imagen2" field and declare it as a local variable in the relevant methods.(ŒôÁ­8Î¾àİî1
+G
+java:S1948‚")Make "imagen2" transient or serializable.(ŒôÁ­8Î¾àİî1
